@@ -18,3 +18,5 @@ and is much easier to use as this item is a combination of a straightener and a 
 | **Problem**  | **Cause**  | **Solution**  |
 | ---------|--------|---------|
 |Appliance not turned on| Not plugged in properly |Press for 3 seconds  |
+
+[GOOGLE](https://www.google.co.in/)
