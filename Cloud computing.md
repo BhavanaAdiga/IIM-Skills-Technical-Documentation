@@ -98,9 +98,9 @@ Working in the cloud with an external network provides the benefits of offsite s
 
 ## 9.1 Pay as you go
 
-•	This can be used in a computing infrastructure to reduce the capital costs of setting up and operating a cluster of machines. To make this work, the cloud system needs to keep track of resource utilization at the granular level so that suitable bills can be generated.
+--> This can be used in a computing infrastructure to reduce the capital costs of setting up and operating a cluster of machines. To make this work, the cloud system needs to keep track of resource utilization at the granular level so that suitable bills can be generated.
 
-•	Pay for cloud services only as needed to avoid competitors racking up the bill. 
+--> Pay for cloud services only as needed to avoid competitors racking up the bill. 
 
 ## 9.2	Reduce endpoint reliability
 
@@ -125,10 +125,7 @@ Providers must be able to manage the vulnerability of a single piece of data tha
 
 # **10. Conclusion**
 
-To compete in today's worldwide competitive market, businesses must innovate and make the most of their resources. This necessitates providing platforms and collaborative tools that encourage creativity to its staff, business partners, and users. Cloud computing infrastructures are next-generation platforms that can benefit businesses of all sizes. They may assist businesses in making better use of current IT hardware and software investments, as well as speed the adoption of new technologies.
-
-       Cloud computing improves resource use, which enhances profitability. Costs are reduced by just offering appropriate resources for the period they are required. Teams and companies have been able to shorten lengthy procurement processes because to cloud computing.
-Cloud computing facilitates invention by removing the need for innovators to locate resources.
+To compete in today's worldwide competitive market, businesses must innovate and make the most of their resources. This necessitates providing platforms and collaborative tools that encourage creativity to its staff, business partners, and users. Cloud computing infrastructures are next-generation platforms that can benefit businesses of all sizes. They may assist businesses in making better use of current IT hardware and software investments, as well as speed the adoption of new technologies.Cloud computing improves resource use, which enhances profitability. Costs are reduced by just offering appropriate resources for the period they are required. Teams and companies have been able to shorten lengthy procurement processes because to cloud computing.Cloud computing facilitates invention by removing the need for innovators to locate resources.
 
 
 
