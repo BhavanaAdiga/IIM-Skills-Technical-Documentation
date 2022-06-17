@@ -2,7 +2,8 @@
 
 # **1.   INTRODUCTION**
 
-Cloud computing is the practice of offering computing and communications-related services using remotely located, network-based resources without requiring the user to possess those resources. The Internet is usually, but not always, the network in question. Data, software, storage, security, and other services are among the resources provided.
+Cloud computing is the practice of offering computing and communications-related services using remotely located, network-based resources without requiring the user to possess those resources. Data, software, storage, security, and other services are among the resources provided.
+
 The infrastructure is a "Cloud," which allows businesses and individuals to access applications on demand from anywhere in the world.
 A cloud is what we call a network of nodes like this. A cloud application is one that is built on top of such clouds.
 
@@ -15,7 +16,7 @@ A cloud is what we call a network of nodes like this. A cloud application is one
 
 ![2](https://user-images.githubusercontent.com/107342227/173816601-b707908c-97ac-4db9-a3fb-256089a1a342.png)
 
-A cloud architect, who is frequently employed by a cloud integrator, creates the systems architecture for the software systems involved in cloud computing delivery, such as hardware and software. Several cloud components routinely communicate with one another via application programming interfaces (APIs), the most prevalent of which being web services.
+A cloud architect, who is frequently employed by a cloud integrator, creates the systems architecture for the software systems involved in cloud computing delivery, such as hardware and software. Several cloud components routinely communicate with one another via **Application Programming Interfaces (APIs)**, the most prevalent are the web services.
 
 # **4.	Cloud Components**
 
@@ -27,12 +28,21 @@ A cloud architect, who is frequently employed by a cloud integrator, creates the
 
 # **6. Comparison of Traditional Computing and Cloud Computing**
 
-|  **Traditional Computing**  |  **Cloud Computing**  |
+|  **Traditional Computing**                                      |  **Cloud Computing**                                          |
+|-----------------------------------------------------------------| --------------------------------------------------------------|
 
-| It shows delivary of various services on a local server|It shows delivery of various serices on different servers|
-| The data can be accessed on the system where the data is stored | The data can be accessed from anywhere|
-|It does not require internet connection| High speed internet connection required|
-|It is less cost effective as money is required to set up | It is cost effective as the moany required to set up is shared|
+|  It shows delivary of various services on a local server        |   It shows delivery of various serices on different servers   |
+|-----------------------------------------------------------      | --------------------------------------------------------------|
+
+
+| The data can be accessed on the system where the data is stored | The data can be accessed from anywhere                        |
+|-----------------------------------------------------------------|---------------------------------------------------------------|
+
+
+| It does not require internet connection                         | High speed internet connection required                       |
+|-----------------------------------------------------------------|---------------------------------------------------------------|
+
+| It is less cost effective as money is required to set up | It is cost effective as the moany required to set up is shared|
 
 
 # **7.	Services of Cloud Computing**
@@ -40,7 +50,7 @@ A cloud architect, who is frequently employed by a cloud integrator, creates the
 
 ## 7.1  SaaS: Software as a Service
 
-Users can access software or apps hosted in the cloud via a Web interface (browser). Users can use these services without worrying about the internals of the applications or the infrastructure that was used to deploy them.
+Users can access software or apps hosted in the cloud via a **Web interface** (browser). Users can use these services without worrying about the internals of the applications or the infrastructure that was used to deploy them.
 
 Facebook and Gmail are two examples.
 
