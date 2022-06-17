@@ -66,4 +66,41 @@ Cloud computing can help businesses innovate more quickly by giving simple compu
 Information services, entertainment-oriented services like video on demand, simple business services like customer authentication or identity management, and contextual services like location or mapping services are all well positioned to be supplied via the cloud.
 
 
+# **9.	 Data security for cloud computing**
+
+•	Working in the cloud with an external network provides the benefits of offsite storage backup, but it also comes with some risks: Viruses, spam, spyware, and identity theft are just a few examples of the dangers.
+•	Despite the fact that many businesses now provide cloud vendors access to their data, "simply sharing a document rather than a complete infrastructure is a big gain."
+•	Keep your cloud API keys safe.
+•	Require the provider to submit keys for various kinds of data and risk levels. Put the development data in one account and the production data in another. As a result, the chances of someone breaking into your less secure development workstation are reduced.
+
+
+9.1 Pay as you go
+
+•	This can be used in a computing infrastructure to reduce the capital costs of setting up and operating a cluster of machines. To make this work, the cloud system needs to keep track of resource utilization at the granular level so that suitable bills can be generated.
+•	Pay for cloud services only as needed to avoid competitors racking up the bill. 
+
+8.2	Reduce endpoint reliability
+
+"The cloud's concept is to keep data on endpoint devices to a bare minimum." Endpoint devices are difficult to safeguard because they take security out of the hands of specialists and place it in the hands of users."
+Ensure that data transactions are compliant and certified:
+SaaS 70, a security protocol, should be followed in corporate situations. Meanwhile, since medical data moves via the cloud, health care organizations require HIPAA laws.
+
+8.3 Understand vulnerability management
+
+Providers must be able to manage the vulnerability of a single piece of data that impacts a large number of clients because "a single vulnerability has the potential to divulge the essential assets of a large number of their clients." According to one expert, "cloud computing providers must be able to demonstrate that they are aware of the cloud's vulnerabilities and are not waiting for someone else to disclose them."
+
+
+8.4  Keep forensics and Weblog :
+
+Providers must always know where their customers' data is. A process must be in place to trace the audit trail and see where the data was at any given time. Enable logging to gain insight into how users are using the cloud services you've deployed. You won't be able to see any of the nasty stuff or hacking potential unless you enable logging.
+
+
+9. Conclusion
+
+To compete in today's worldwide competitive market, businesses must innovate and make the most of their resources. This necessitates providing platforms and collaborative tools that encourage creativity to its staff, business partners, and users. Cloud computing infrastructures are next-generation platforms that can benefit businesses of all sizes. They may assist businesses in making better use of current IT hardware and software investments, as well as speed the adoption of new technologies.
+Cloud computing improves resource use, which enhances profitability. Costs are reduced by just offering appropriate resources for the period they are required. Teams and companies have been able to shorten lengthy procurement processes because to cloud computing.
+Cloud computing facilitates invention by removing the need for innovators to locate resources.
+
+# **10.	References**
+.
 
