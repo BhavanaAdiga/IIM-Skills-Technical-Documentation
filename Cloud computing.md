@@ -29,6 +29,11 @@ A cloud architect, who is frequently employed by a cloud integrator, creates the
 
 |  **Traditional Computing**  |  **Cloud Computing**  |
 
+| It shows delivary of various services on a local server|It shows delivery of various serices on different servers|
+| The data can be accessed on the system where the data is stored | The data can be accessed from anywhere|
+|It does not require internet connection| High speed internet connection required|
+|It is less cost effective as money is required to set up | It is cost effective as the moany required to set up is shared|
+
 
 # **7.	Services of Cloud Computing**
 
@@ -101,6 +106,8 @@ To compete in today's worldwide competitive market, businesses must innovate and
 Cloud computing improves resource use, which enhances profitability. Costs are reduced by just offering appropriate resources for the period they are required. Teams and companies have been able to shorten lengthy procurement processes because to cloud computing.
 Cloud computing facilitates invention by removing the need for innovators to locate resources.
 
-# **10.	References**
-.
+# **11.	References**
 
+[CLOUD COMPUTING](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/#benefits)
+
+[Cloud by IBM](https://www.ibm.com/in-en/cloud/learn/cloud-computing)
